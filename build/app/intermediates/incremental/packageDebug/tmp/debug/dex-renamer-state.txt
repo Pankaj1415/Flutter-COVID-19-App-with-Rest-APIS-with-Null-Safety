@@ -1,4 +1,4 @@
-#Sun Oct 06 20:38:48 IST 2024
+#Sun Oct 06 21:34:40 IST 2024
 base.0=C\:\\Users\\dotpa\\AndroidStudioProjects\\Flutter-Covid-19-Tracker-App-Tutorials\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\dotpa\\AndroidStudioProjects\\Flutter-Covid-19-Tracker-App-Tutorials\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\dotpa\\AndroidStudioProjects\\Flutter-Covid-19-Tracker-App-Tutorials\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
